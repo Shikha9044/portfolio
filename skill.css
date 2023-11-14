@@ -1,0 +1,161 @@
+*{
+    margin:0;
+    padding:0;
+}
+.h1{
+    font-size: 70px;
+    
+}
+
+         
+    
+        
+.container1{
+    
+            width:1600px;
+            padding: 90px;
+            background:linear-gradient(45deg,#08a5f4,#f408cd);
+            height:700px;
+            text-align:left;
+            margin-top: 5%;
+            box-shadow:20px 20px 50px rgba(0 0,0,0.5);
+            border-radius: 20%;
+            display:flex;
+            justify-content:center;
+            align-content:center;
+            margin-top: 60px;
+
+            
+    
+            
+}
+
+.container1 h1{
+            font-size:50px;
+            text-align: center;
+}
+.container1 h2{
+     font-size: 40px;
+     margin-right:59cm ;
+     margin-bottom: 10%;
+}
+.container1 img {
+            max-width: 10cqmax;
+            height: 5cqmax;
+            border-radius:50%;
+            margin-right: 59cm;
+            margin-bottom: 2cm;
+            padding-top: 5%;
+            
+            
+}
+.container1 div{
+            margin-left: 20%;
+            width:10cm;
+            margin-bottom: 100px;
+            right:50px;
+            margin:20px;
+            margin-top: 50px;
+            padding-top: 20px;
+
+        
+    
+} 
+       
+h1{
+    text-align: center;
+    color:#0e0c0c;
+}           
+h3{
+    margin: 5px;
+    color:#0e0c0c;
+}
+            
+
+.div{
+    width: 300px;
+   margin:60px auto;
+   color:#21767d;
+   padding:20px;
+   box-shadow:0 14px 28px rgba(0 0,0,0.25),0 10px 10px rgba(0,0,0,0.22);
+   height: 300px;
+   border-radius: 30px;
+   margin-left: 500px;
+   top:50px;
+   justify-content:left;
+
+   
+}
+.container ::fa-brands fa-css3{
+shape-image-threshold: 30px;
+}
+.div li{
+    margin:20px 0;
+    padding:10px;
+}
+.bar{
+    background:#353b48;
+    display: block;
+    height: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius:10px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba (0, 0, 0, 0.12),0 1px 2px rgba (0, 0, 0, 0.24);
+    transition:all 0.3s cubic-bezier(.25,.8,.25,1);
+
+}
+.bar:hover{
+    box-shadow: 0 14px 28px rgba(0 0,0,0.25),0 10px 10px rgba(0,0,0,0.22);
+}
+.bar span{
+       height: 20px;
+       float:left;
+       background:linear-gradient(135deg,rgba(236, 0, 140,1)0%, rgba(252, 103, 103, 1)100%);
+}
+.HTML{
+    width:90%;
+    animation:HTML 3S;
+
+}
+.CSS{
+    width:80%;
+    animation:CSS 3s;
+}
+.JAVASCRIPT{
+    width:70%;
+    animation:JAVASCRIPT 3S;
+
+}
+.PHP{
+     width:60%;
+     animation:PHP  4s;
+}
+@media screen and (width<=600px)
+{
+    .h1{
+        font-size: 30px;
+        align-items: center;
+        margin-left: 300px;
+    }
+    .container1{
+    
+        width:700px;
+        padding: 50px;
+        flex-direction: column;
+        height:1500px;
+        align-items: center;
+        margin-top: 20px;
+        margin-left: 50px;
+    }
+    .div{
+        margin-left: 20px;
+        justify-content: center;
+    }
+
+        
+
+        
+    
+} 
+         
+

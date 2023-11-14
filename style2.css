@@ -1,0 +1,106 @@
+*{
+    margin:0;
+    padding:0;
+}
+.body{
+    background:linear-gradient(45deg,#fa0c97,#13bdec);
+}
+.va{
+    display: inline flex;
+}
+.vans{
+    display: flex;
+    margin-top: 300px;
+}
+.container1{
+    width:3000px;
+    height:300px;
+    background:linear-gradient(45deg,#fa0c97,#13bdec);
+}
+.container1 h1{
+    font-size: 160px;
+    font-style: italic;
+    text-align: center;
+    /* margin-right: 20%;  */
+    color: aliceblue;
+}
+.container2 {
+    width: 530px;
+    height: 250px;
+    background: linear-gradient(45deg,#fb0a9b,#1c9dd4);
+    margin: 30px auto;
+    margin-left: 70px;
+    box-sizing: border-box;
+    padding: 79px;
+    box-shadow: 0 0 20px rgba(12, 14, 13, 0.6);
+    margin-right: 70%;
+    align-items: center;
+    color:aliceblue;
+    margin-bottom: 30px;
+    font-size: 25px;
+    padding-bottom: 20px;
+
+}
+.container3 {
+    width:320px ;
+    height:270px;
+    background:linear-gradient(45deg,#fb0a9b,#1c9dd4);
+    margin:20px auto;
+    box-sizing: border-box;
+    padding: 40px;
+    box-shadow: 0 0 20px rgba(12, 14, 13, 0.6);
+    margin-right:70%;
+    align-items:center;
+    color:aliceblue;
+    font-size :25px;
+}
+.container4 {
+    width: 480px;
+    height: 270px;
+    background: linear-gradient(45deg,#fb0a9b,#1c9dd4);
+    margin: 30px auto;
+    box-sizing: border-box;
+    padding: 79px;
+    box-shadow: 0 0 20px rgba(12, 14, 13, 0.6);
+    margin-right: 70%;
+    align-items: center;
+    color:aliceblue;
+    font-size:25px;
+}
+
+
+.img{
+
+    /* max-width: 20px; */
+    height: 500px;
+    margin-right:40px ;
+    margin-left: 300px;
+    /* margin-block-end: 30px; */
+    /* padding-left: 20%;  */
+    /* padding-bottom: 25%; */
+    /* border-radius: 50%; */
+}
+.container5 {
+    width:1100px;
+    height:750px;
+    padding: 60px;
+    /* margin: 40px; */
+    margin-left:500px ;
+    align-items: top;
+    background:linear-gradient(45deg,#fa0c97,#13bdec);
+    justify-self: baseline;
+}
+.container5 h2{
+    
+    color:rgb(200, 246, 15);
+    margin-right:10px; 
+    padding-top: 5%;
+    font-size: 50px;
+    
+}
+.container5 p{
+        color:rgb(245, 252, 252);
+        text-align: center;
+        font-size: 30px;
+        margin-top: 60px;
+}
